@@ -1,4 +1,4 @@
-# music-production-tips
+# CompyCore Records Music Production Tips
 
 ## General
 

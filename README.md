@@ -16,6 +16,12 @@
 
 - When importing audio samples in Ableton, be aware of the "autowarp long samples" preference. If your audio [seems slightly off key or a bit jittery](https://www.reddit.com/r/ableton/comments/caywxv/weird_stuttering_on_imported_mp3_files/), check to see if Ableton automatically turned on sample warping for that sample.
 
+## Songwriting
+
+- Try to be specific in your songs; more generic songs actually connect with fewer people than a song that's more specific
+- See how quickly you can imply a story in the opening lyrics of your song
+	- Sometimes starting with setting the physical scene of the song can help
+
 ## Miscellaneous
 
 - If you download an audio file from Discord, it will likely be compressed in a way that Ableton will not like. You can use `ffmpeg` to reconvert it to fix the Ableton "this file has DLC or is corrupted" message.

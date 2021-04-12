@@ -10,6 +10,7 @@
 ## EQ
 
 - Slap a lowcut on your kickdrums (sometimes as high as 500 hz with a shallow slope) to help them pop.
+	- The more bass sounds you cut, the more room you'll have in your mix for other things.
 
 ## Ableton
 

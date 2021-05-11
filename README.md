@@ -6,6 +6,7 @@
 - If your mix feels "muddy," remove some bass with an EQ (it's easy to make your reverb muddy if you leave in too much bass).
 - Using an automation in your DAW to lower the volume of your track 1 db right before the chorus and then snapping the volume back as the chorus hits helps add some extra power to the chorus.
 - Try to keep 3-10 db of headroom on your master track (meaning keep the peak volume at -3 to -10 db) during producing. Get the volume back in the mastering phase using compressors and EQ.
+- Make your bass elements mono so they don't take up unnecessary space in your mix
 
 ## EQ
 

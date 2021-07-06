@@ -18,6 +18,10 @@
 
 - When importing audio samples in Ableton, be aware of the "autowarp long samples" preference. If your audio [seems slightly off key or a bit jittery](https://www.reddit.com/r/ableton/comments/caywxv/weird_stuttering_on_imported_mp3_files/), check to see if Ableton automatically turned on sample warping for that sample.
 
+## Music Theory
+
+- https://www.coursera.org/learn/edinburgh-music-theory?action=enroll
+
 ## Songwriting
 
 - Read the [Berklee Online Songwriting Handbook](https://welcome.online.berklee.edu/general-download-berklee-online-songwriting-handbook.html?pid=7995&utm_source=facebook&utm_medium=social&utm_campaign=bol-gen-facebook-ad-songwriting-handbook-redoverlaytemplate-engagedvideoviewers&fbclid=PAAabaPKvZhq7sgyGS1BA2oWhuQqrgytsJN8LettVRfZrTUNSdLCCSB61eHW4_aem_AQZGzxUTZR78OkENP05MopSJhrY0IVGbNqJXlxaMIWqU2ZpaZvXCAFBIXpbu27MJ3fNkY45zlCQ487e_UvVPmrZq9kdAcxAH7zB0wzQcHAackA)

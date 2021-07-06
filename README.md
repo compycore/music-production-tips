@@ -29,6 +29,7 @@
 - See how quickly you can imply a story in the opening lyrics of your song
 	- Sometimes starting with setting the physical scene of the song can help
 - [Turn a chord into a melody](https://www.tiktok.com/@monsterduckmusic/video/6957865515356294406?_d=secCgYIASAHKAESMgowjRMkdJou%2FgBTIAPekV5t14EAibHMlA8cNaNdbMXh18S%2F1OFlSihv8S32TuMnJRecGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAiJoE_fEBIhxA7V2IcQvaSnDO4RPKMYd4i-tABBlIVYPJWyqGqSVfePl0NrNj9BPr&share_app_id=1233&share_item_id=6957865515356294406&share_link_id=627BFBB6-C78D-44B1-8A1F-96701327E345&source=h5_m&timestamp=1620232107&tt_from=more&u_code=dgejk5ebll0ga9&user_id=6917269600455410693&utm_campaign=client_share&utm_medium=ios&utm_source=more&_r=1)
+- [Personify your feelings and write a song about that "person"](https://www.tiktok.com/@monsterduckmusic/video/6929250742670789893?_d=secCgYIASAHKAESMgowTtzBNzEo0jmjm8%2Bl0aHHAlRWDCftqBdIm6JjEXOlGw7%2FFhpKfvQFvoq4CqSeZ0sVGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAiJoE_fEBIhxA7V2IcQvaSnDO4RPKMYd4i-tABBlIVYPJWyqGqSVfePl0NrNj9BPr&share_item_id=6929250742670789893&share_link_id=D295DAA1-7724-4869-8668-FAEE34D63325&timestamp=1613366354&tt_from=more&u_code=dgejk5ebll0ga9&user_id=6917269600455410693&utm_campaign=client_share&utm_medium=ios&utm_source=more&source=h5_m&_r=1)
 
 ## Miscellaneous
 
